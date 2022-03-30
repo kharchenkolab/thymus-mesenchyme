@@ -1,6 +1,6 @@
 # Thymic mesenchymal niche cells drive T cell immune regeneration
 
-Code and notebooks for Gustafsson et al. scRNA-Seq analysis of thymic mesenchymal cells.
+Code and notebooks for *Gustafsson et al.* scRNA-Seq analysis of thymic mesenchymal cells.
 
 ## Content
 - `ipynb_notebooks` contains .ipynb Jupyter notebooks:
