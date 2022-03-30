@@ -14,5 +14,5 @@ Code and notebooks for *Gustafsson et al.* scRNA-Seq analysis of thymic mesenchy
   - `07_Figures.ipynb`: figures preparation;
 - `html_notebooks` contains .html Jupyter notebooks:
   - *same as in `ipynb_notebooks`*;
-- `data` contsins some data that is needed to reproduce an analysis;
+- `data` contains some data that is needed to reproduce an analysis;
 - `tools` contains additional functions that are used in Jupyter notebooks.
