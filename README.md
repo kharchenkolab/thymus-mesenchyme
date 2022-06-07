@@ -12,7 +12,5 @@ Code and notebooks for *Gustafsson et al.* scRNA-Seq analysis of thymic mesenchy
   - `05_Bornstein_alignment.ipynb`: validation of MC cell types on public data,
   - `06_Beta_regression.ipynb`: some statistical computations,
   - `07_Figures.ipynb`: figures preparation;
-- `html_notebooks` contains .html Jupyter notebooks:
-  - *same as in `ipynb_notebooks`*;
 - `data` contains some data that is needed to reproduce an analysis;
 - `tools` contains additional functions that are used in Jupyter notebooks.
