@@ -1,6 +1,6 @@
-# Thymic mesenchymal niche cells drive T cell immune regeneration
+# Code for the paper "Thymic mesenchymal niche cells drive T cell immune regeneration"
 
-Code and notebooks for *Gustafsson et al.* scRNA-Seq analysis of thymic mesenchymal cells. AnnData and conos objects are available from Zenodo repository (https://doi.org/10.5281/zenodo.6656930).
+Code for *Gustafsson et al.* scRNA-Seq analysis of thymic mesenchymal cells. AnnData and conos objects are available from Zenodo repository (https://doi.org/10.5281/zenodo.6656930).
 
 ## Content
 - `ipynb_notebooks` contains .ipynb Jupyter notebooks:
